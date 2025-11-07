@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cocktail - ClicBoumPaf
+# Cocktail
 </div>
 
 
